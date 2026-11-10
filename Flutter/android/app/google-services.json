@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1015925495202",
+    "project_id": "trade-match-a7dec",
+    "storage_bucket": "trade-match-a7dec.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015925495202:android:8dcc6ec90c3423036e8efb",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIt6RBsnwFLS9xyTznfd97FumsEtu1OFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
