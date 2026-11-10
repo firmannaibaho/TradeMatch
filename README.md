@@ -4,16 +4,6 @@
 TradeMatch adalah aplikasi barter modern yang memungkinkan pengguna untuk saling menukar barang dengan cara yang efisien, aman, dan menyenangkan. Aplikasi ini menggabungkan konsep "match system" layaknya aplikasi dating untuk menemukan pasangan barter yang cocok berdasarkan kebutuhan dan penawaran pengguna.
 
 ---
-
-## 👥 Anggota Kelompok
-| Nama | NIM |
-|------|-----|
-| Qhanakin Ahmad Zhavi | 231402071 |
-| Firman Karunia Naibaho | 231402074 |
-| Alfathin suwailim | 231402096 |
-| Muhammad Ilyas Hasibuan | 231402106 |
-| Rifki Reysaad Bangun | 231402109 |
-
 ---
 
 ## 🚀 Rencana Fitur Aplikasi
